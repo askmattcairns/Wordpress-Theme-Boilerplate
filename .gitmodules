@@ -1,0 +1,3 @@
+[submodule "build/less/vendor/normalize"]
+	path = build/less/vendor/normalize
+	url = https://github.com/necolas/normalize.css.git
